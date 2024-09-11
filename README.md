@@ -51,7 +51,7 @@ If you're using nvm (Node Version Manager), you can switch to a compatible versi
 ```bash
     npm start  
 ```
-    This will launch the app in your default web browser at http://localhost:3000.
+This will launch the app in your default web browser at http://localhost:3000.
 
 ## Usage
 
